@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="czt_ssm_dao" />
+        <module name="czt_ssm_domain" />
+        <module name="czt_ssm_service" />
+        <module name="czt_ssm_utils" />
+        <module name="czt_ssm_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="czt" target="1.5" />
+      <module name="Springmvcc" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

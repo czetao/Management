@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="authenticationDatabase" value="gdufe_data_t" />
+          <option name="authenticationMechanism" value="SCRAM-SHA-1" />
+          <option name="label" value="ddd" />
+          <option name="password" value="user_gdufe$pwd" />
+          <option name="serverUrls">
+            <list>
+              <option value="172.19.13.51:27017" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="userDatabase" value="gdufe_data_t" />
+          <option name="username" value="user_gdufe_t" />
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
