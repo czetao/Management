@@ -1,5 +1,6 @@
 package czt_ssm_service.serviceImpl;
 
+import com.github.pagehelper.PageHelper;
 import czt_ssm_dao.IproductDao;
 import czt_ssm_domain.Product;
 import czt_ssm_service.IproductService;
@@ -21,7 +22,8 @@ public class IproductServiceImpl implements IproductService {
     @Autowired
     private IproductDao dao;
     @Override
-    public List<Product> findAll() throws Exception {
+    public List<Product> findAll(Integer page,Integer size) throws Exception {
+        PageHelper.startPage(page,size);
         return dao.findAll();
     }
 

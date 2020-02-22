@@ -7,8 +7,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:/eclipse暑期/no2woekspacd/Springmvcc - 副本/Springmvcc.iml" filepath="D:/eclipse暑期/no2woekspacd/Springmvcc - 副本/Springmvcc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/czt.iml" filepath="$PROJECT_DIR$/czt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/czt.iml" filepath="$PROJECT_DIR$/.idea/czt.iml" />
     </modules>
   </component>
 </project>

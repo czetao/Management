@@ -9,10 +9,10 @@
 <packaging>pom</packaging>
 <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>czt_ssm_service</module>
         <module>czt_ssm_dao</module>
         <module>czt_ssm_domain</module>
         <module>czt_ssm_utils</module>
+        <module>czt_ssm_service</module>
         <module>czt_ssm_web</module>
     </modules>
 

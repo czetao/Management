@@ -96,7 +96,9 @@ public class LogAop {
         Syslog syslog = new Syslog();
         syslog.setExecutionTime(time);
         syslog.setIp(ip);
-        syslog.setMethod("[类名] "+clazz.getName()+"[方法名 ]"+method.getName());
+        if (clazz != null && method != null ){
+            syslog.setMethod("[类名] "+clazz.getName()+"[方法名 ]"+method.getName());
+        }
         syslog.setUrl(url);
         syslog.setUsername(username);
         syslog.setVisitTime(visitTime);

@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-
+<%--菜单栏--%>
 <aside class="main-sidebar">
 	<!-- sidebar: style can be found in sidebar.less -->
 	<section class="sidebar">
@@ -57,11 +57,11 @@
 				<ul class="treeview-menu">
 
 					<li id="system-setting"><a
-						href="${pageContext.request.contextPath}/product/findAll.do">
+						href="${pageContext.request.contextPath}/product/findAll.do?page=1&size=3">
 							<i class="fa fa-circle-o"></i> 产品管理
 					</a></li>
 					<li id="system-setting"><a
-						href="${pageContext.request.contextPath}/orders/findAll.do?page=1&pageSize=3"> <i
+						href="${pageContext.request.contextPath}/orders/findAll.do?page=1&size=4"> <i
 							class="fa fa-circle-o"></i> 订单管理
 					</a></li>
 

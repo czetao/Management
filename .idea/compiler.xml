@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="czt_ssm_dao" />
-        <module name="czt_ssm_domain" />
-        <module name="czt_ssm_service" />
         <module name="czt_ssm_utils" />
+        <module name="czt_ssm_domain" />
         <module name="czt_ssm_web" />
+        <module name="czt_ssm_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
