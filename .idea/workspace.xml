@@ -16,26 +16,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3259df75-7753-47dd-aeee-b1375735b629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/czt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_dao/src/main/java/czt_ssm_dao/IproductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_dao/src/main/java/czt_ssm_dao/IproductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_service/src/main/java/czt_ssm_service/IproductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_service/src/main/java/czt_ssm_service/IproductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_service/src/main/java/czt_ssm_service/serviceImpl/IproductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_service/src/main/java/czt_ssm_service/serviceImpl/IproductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_web/src/main/Java/czt_ssm_controler/LogAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_web/src/main/Java/czt_ssm_controler/LogAop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_web/src/main/Java/czt_ssm_controler/productController.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_web/src/main/Java/czt_ssm_controler/productController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_web/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_web/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_web/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_web/src/main/webapp/pages/aside.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_web/src/main/webapp/pages/aside.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czt_ssm_web/src/main/webapp/pages/product-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_web/src/main/webapp/pages/product-list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Traveller.java" beforeDir="false" afterPath="$PROJECT_DIR$/czt_ssm_domain/src/main/java/czt_ssm_domain/Traveller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,19 +102,19 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38566244" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.26713008" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\maven\workspace\czt\czt_ssm_web\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\czt\czt_ssm_web\src\main\webapp\pages" />
       <recent name="E:\maven\workspace\czt\czt_ssm_web\src\main\webapp\pages" />
       <recent name="E:\maven\workspace\czt\czt_ssm_web\src\main\webapp" />
       <recent name="E:\maven\workspace\czt\czt_ssm_web\src\main\resources" />
       <recent name="E:\maven\workspace\czt\czt_ssm_web\src\main\webapp\img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\maven\workspace\czt\czt_ssm_web\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Maven.czt-ssm-web">
@@ -381,7 +364,8 @@
       <workItem from="1582274714313" duration="2192000" />
       <workItem from="1582277670992" duration="398000" />
       <workItem from="1582278083843" duration="1180000" />
-      <workItem from="1582352809214" duration="17191000" />
+      <workItem from="1582352809214" duration="17436000" />
+      <workItem from="1582441059717" duration="5805000" />
     </task>
     <task id="LOCAL-00001" summary="bug解决">
       <created>1582272524802</created>
@@ -390,13 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1582272524802</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="订单查询和分页">
+      <created>1582381668518</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582381668518</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="All_Features_in__czt-ssm-dao - 2019.02.24 at 18h 12m 14s.xml">
-      <configuration name="All Features in: czt-ssm-dao" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -406,57 +392,70 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="bug解决" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug解决" />
+    <MESSAGE value="订单查询和分页" />
+    <option name="LAST_COMMIT_MESSAGE" value="订单查询和分页" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582278299824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582278299824" />
-    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1582374535482">
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1582441747483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582374535482" />
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582441747483" />
+    <state x="385" y="9" key="CommitChangelistDialog2" timestamp="1582381664913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582381664913" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582274783120">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582274783120" />
-    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1582379656160">
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom" timestamp="1582443790057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582379656160" />
-    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1582379656160">
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582443790057" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center" timestamp="1582443790057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582379656160" />
-    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1582379656160">
+    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582443790057" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left" timestamp="1582443790057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582379656160" />
-    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1582379656160">
+    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582443790057" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right" timestamp="1582443790057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582379656160" />
-    <state width="1493" height="163" key="GridCell.Tab.1.bottom" timestamp="1582361992139">
+    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582443790057" />
+    <state width="1493" height="163" key="GridCell.Tab.1.bottom" timestamp="1582381879538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582361992139" />
-    <state width="1493" height="163" key="GridCell.Tab.1.center" timestamp="1582361992139">
+    <state width="1493" height="163" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582381879538" />
+    <state width="1493" height="163" key="GridCell.Tab.1.center" timestamp="1582381879537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582361992139" />
-    <state width="1493" height="163" key="GridCell.Tab.1.left" timestamp="1582361992139">
+    <state width="1493" height="163" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582381879537" />
+    <state width="1493" height="163" key="GridCell.Tab.1.left" timestamp="1582381879537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582361992139" />
-    <state width="1493" height="163" key="GridCell.Tab.1.right" timestamp="1582361992139">
+    <state width="1493" height="163" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582381879537" />
+    <state width="1493" height="163" key="GridCell.Tab.1.right" timestamp="1582381879538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="163" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582361992139" />
-    <state x="2" y="110" key="SettingsEditor" timestamp="1582277608910">
+    <state width="1493" height="163" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582381879538" />
+    <state x="2" y="110" key="SettingsEditor" timestamp="1582441191052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="2" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582277608910" />
+    <state x="2" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582441191052" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1582381858315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582381858315" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582381860295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1582381860295" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582360977616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -5,6 +5,9 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 import java.util.Date;
 
+/***
+ * 游客，会员既是联系人
+ */
 public class Product {
     private String id; // 主键
     private String productNum; // 编号 唯一
